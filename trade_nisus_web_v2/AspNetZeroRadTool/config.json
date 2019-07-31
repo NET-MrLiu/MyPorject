@@ -1,0 +1,9 @@
+{
+  "CompanyName": "Nisus",
+  "ProjectName": "Trade",
+  "ProjectType": "Mvc",
+  "ProjectVersion":"ProjectVersion",
+  "ApplicationAreaName": "Member",
+  "AngularSrcPath": "\\..\\..\\angular\\src\\",
+  "LicenseCode": "LicenseCodePlaceHolderToReplace"
+}
