@@ -43,7 +43,7 @@
   <ItemGroup Condition=" '$(TargetFramework)' == 'net461' ">
     <PackageReference Include="Abp.Owin" Version="3.1.1" />
     <PackageReference Include="Abp.Web.SignalR" Version="3.1.1" />
-    <PackageReference Include="Microsoft.AspNetCore.Owin" Version="2.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Owin" Version="3.1.8" />
   </ItemGroup>
 
   <ItemGroup Condition=" '$(TargetFramework)' == 'net461' ">
